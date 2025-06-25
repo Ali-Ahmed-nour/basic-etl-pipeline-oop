@@ -1,0 +1,47 @@
+# 🐍 Python Bytecode Cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🔁 Environment Files
+.env
+.venv/
+venv/
+ENV/
+
+# 📓 Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# 🧪 Pytest Cache
+.pytest_cache/
+
+# 🪵 Log Files
+*.log
+
+# 🧹 OS System Files
+.DS_Store
+Thumbs.db
+
+# 📂 VSCode or IDE Settings (اختياري)
+.vscode/
+.idea/
+
+# 📦 Packages
+*.egg-info/
+*.egg
+*.whl
+dist/
+build/
+
+# 🧪 Coverage Reports
+htmlcov/
+coverage.xml
+*.cover
+
+# 📦 Pip Freeze
+pip-log.txt
+
+# 📂 Temporary Files
+*.tmp
+*.bak
+*.swp
